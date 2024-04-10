@@ -24,7 +24,7 @@
                 "containers": [
                     {
                         "name": "api-heroes",
-                        "image": "erickwendel/nodejs-with-postgres-api-example",
+                        "image": "lpkyrius/nodejs-with-postgres-api-example",
                         "ports": [{
                             "containerPort": 4000
                         }],
